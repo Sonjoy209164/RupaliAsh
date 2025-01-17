@@ -6,6 +6,7 @@
 - **Admin panel Demo**: [Watch on YouTube](https://youtu.be/oChfjgZz3bw)
 - **Home Page Demo**: [Watch on YouTube](https://youtu.be/Oh1qWYqmNog)
 - **Ordering Process Demo**: [Watch on YouTube](https://youtu.be/CmJx3IXN9H8)
+- **Admin Panel Demo**: [Watch on YouTube]([https://youtu.be/CmJx3IXN9H8](https://youtu.be/cyNnMCaKnx8))
 
 ## Features
 - Multi-vendor support
